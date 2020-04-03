@@ -20,4 +20,11 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>wikipedia_articles.xml</name>
+			<type>1</type>
+			<location>D:/D - Downloads/enwiki-20200201-pages-articles-multistream.xml/enwiki-20200201-pages-articles-multistream.xml</location>
+		</link>
+	</linkedResources>
 </projectDescription>
